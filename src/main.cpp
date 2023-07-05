@@ -1,4 +1,5 @@
 #include "headers.h"
+#include "ConfigurationParser/ConfigurationParser.h"
 
 #define CONFIG_PATH "config.cfg"
 

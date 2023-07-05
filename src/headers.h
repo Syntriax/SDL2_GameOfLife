@@ -15,6 +15,4 @@
 
 #include "GameOfLife.h"
 
-#include "ConfigurationParser/ConfigurationParser.h"
-
 // #endif
