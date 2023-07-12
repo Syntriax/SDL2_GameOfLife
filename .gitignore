@@ -33,3 +33,7 @@
 
 include/SDL2/
 .vscode
+
+bin/
+obj/
+build/
